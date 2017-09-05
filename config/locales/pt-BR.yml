@@ -1,0 +1,20 @@
+"pt-BR":
+    hello: "Olá Mundo"
+    
+    ## Botões
+    buttons:
+      show: "Mostrar"
+      edit: "Editar"
+      destroy: "Apagar"
+      new: "Novo"
+      back: Voltar
+      
+    ## Confirmar delete
+    messages: 
+      confirm: "Você tem certeza que deseja excluir esse item?"
+      errors: Erros ocorreram
+      create: Criado com sucesso
+      update: Atualizado com sucesso
+      destroy: Excluido com sucesso
+     
+      
